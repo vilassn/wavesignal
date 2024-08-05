@@ -1091,10 +1091,10 @@
   {
     "name": "MCDOWELL-N",
     "selected": true,
-    "price": 1421.0,
-    "change": 0.4,
+    "price": 1400.25,
+    "change": -1.46,
     "oichange": 0.0,
-    "changePrev": 9.07,
+    "changePrev": 0.4,
     "oichangePrev": 0.0
   },
   {
@@ -1361,8 +1361,8 @@
   {
     "name": "PVRINOX",
     "selected": true,
-    "price": 1417.800048828125,
-    "change": -3.61,
+    "price": 1406.0999755859375,
+    "change": -4.4,
     "oichange": 0.0,
     "changePrev": -1.54,
     "oichangePrev": 0.0

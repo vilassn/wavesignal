@@ -1,87 +1,75 @@
 [
   {
-    "symbol": "LTTS",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1663525800,
-    "exitDate": 1664735400,
-    "profit": -4.64,
-    "entryPrice": 3432.5,
-    "exitPrice": 3591.6
-  },
-  {
-    "symbol": "PEL",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1663525800,
-    "exitDate": 1664735400,
-    "profit": 10.4,
-    "entryPrice": 964.55,
-    "exitPrice": 864.25
-  },
-  {
-    "symbol": "M\u0026MFIN",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1664130600,
-    "exitDate": 1664735400,
-    "profit": 4.71,
-    "entryPrice": 194.4,
-    "exitPrice": 185.25
-  },
-  {
     "symbol": "AARTIIND",
     "interval": "1wk",
+    "strategy": "SuperTrendLong",
+    "entryType": "BUY",
+    "exitType": "CLOSED",
+    "entryDate": 1663525800,
+    "exitDate": 1664130600,
+    "profit": -3.37,
+    "entryPrice": 884.8,
+    "exitPrice": 854.95
+  },
+  {
+    "symbol": "ABBOTINDIA",
+    "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
-    "entryDate": 1664735400,
-    "exitDate": 1665340200,
-    "profit": -3.85,
-    "entryPrice": 745.05,
-    "exitPrice": 773.75
+    "entryDate": 1663525800,
+    "exitDate": 1664735400,
+    "profit": -9.07,
+    "entryPrice": 17547.95,
+    "exitPrice": 19139.15
   },
   {
-    "symbol": "Nifty Financial Services",
+    "symbol": "BAJAJ-AUTO",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1664735400,
     "exitDate": 1666549800,
-    "profit": -3.93,
-    "entryPrice": 17506.65,
-    "exitPrice": 18194.1
+    "profit": -3.99,
+    "entryPrice": 3527.75,
+    "exitPrice": 3668.6
   },
   {
-    "symbol": "HDFCBANK",
+    "symbol": "CANFINHOME",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1664735400,
+    "exitDate": 1665340200,
+    "profit": -4.36,
+    "entryPrice": 479.8,
+    "exitPrice": 500.7
+  },
+  {
+    "symbol": "NMDC",
+    "interval": "1wk",
+    "strategy": "SuperTrendLong",
+    "entryType": "BUY",
+    "exitType": "CLOSED",
+    "entryDate": 1665340200,
+    "exitDate": 1666549800,
+    "profit": -3.34,
+    "entryPrice": 103.65,
+    "exitPrice": 100.19
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "interval": "1wk",
+    "strategy": "SuperTrendLong",
+    "entryType": "BUY",
+    "exitType": "CLOSED",
+    "entryDate": 1665340200,
     "exitDate": 1667759400,
-    "profit": -5.33,
-    "entryPrice": 1421.35,
-    "exitPrice": 1497.15
-  },
-  {
-    "symbol": "Nifty 50",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1664735400,
-    "exitDate": 1667154600,
-    "profit": -4.05,
-    "entryPrice": 17094.35,
-    "exitPrice": 17786.8
+    "profit": 4.29,
+    "entryPrice": 422.0,
+    "exitPrice": 440.1
   },
   {
     "symbol": "RECLTD",
@@ -89,23 +77,23 @@
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
-    "entryDate": 1664735400,
+    "entryDate": 1665945000,
     "exitDate": 1667154600,
-    "profit": -6.22,
-    "entryPrice": 94.0,
+    "profit": -8.65,
+    "entryPrice": 91.9,
     "exitPrice": 99.85
   },
   {
-    "symbol": "ADANIPORTS",
+    "symbol": "MCX",
     "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
+    "strategy": "SuperTrendLong",
+    "entryType": "BUY",
     "exitType": "CLOSED",
-    "entryDate": 1665945000,
-    "exitDate": 1667154600,
-    "profit": -5.15,
-    "entryPrice": 780.1,
-    "exitPrice": 820.3
+    "entryDate": 1667154600,
+    "exitDate": 1671388200,
+    "profit": 9.07,
+    "entryPrice": 1507.55,
+    "exitPrice": 1644.3
   },
   {
     "symbol": "HCLTECH",
@@ -113,107 +101,11 @@
     "strategy": "SuperTrendLong",
     "entryType": "BUY",
     "exitType": "CLOSED",
-    "entryDate": 1665945000,
-    "exitDate": 1667759400,
-    "profit": 4.27,
-    "entryPrice": 1002.55,
-    "exitPrice": 1045.35
-  },
-  {
-    "symbol": "METROPOLIS",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1665945000,
-    "exitDate": 1667759400,
-    "profit": 10.48,
-    "entryPrice": 1582.75,
-    "exitPrice": 1748.6
-  },
-  {
-    "symbol": "ASTRAL",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1666549800,
-    "exitDate": 1667759400,
-    "profit": -4.21,
-    "entryPrice": 1502.25,
-    "exitPrice": 1565.47
-  },
-  {
-    "symbol": "NESTLEIND",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1666549800,
-    "exitDate": 1669573800,
-    "profit": -3.77,
-    "entryPrice": 2029.49,
-    "exitPrice": 1952.94
-  },
-  {
-    "symbol": "OBEROIRLTY",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1666549800,
-    "exitDate": 1667154600,
-    "profit": -4.31,
-    "entryPrice": 867.55,
-    "exitPrice": 904.95
-  },
-  {
-    "symbol": "JSWSTEEL",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
     "entryDate": 1667759400,
-    "exitDate": 1670178600,
-    "profit": 5.89,
-    "entryPrice": 701.75,
-    "exitPrice": 743.05
-  },
-  {
-    "symbol": "LICHSGFIN",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1667759400,
-    "exitDate": 1670178600,
-    "profit": -5.71,
-    "entryPrice": 372.35,
-    "exitPrice": 393.6
-  },
-  {
-    "symbol": "PERSISTENT",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1667759400,
-    "exitDate": 1669573800,
-    "profit": 7.38,
-    "entryPrice": 1848.97,
-    "exitPrice": 1985.4
-  },
-  {
-    "symbol": "PFC",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1667759400,
-    "exitDate": 1668969000,
-    "profit": 6.76,
-    "entryPrice": 93.56,
-    "exitPrice": 99.88
+    "exitDate": 1668364200,
+    "profit": 4.33,
+    "entryPrice": 1045.35,
+    "exitPrice": 1090.65
   },
   {
     "symbol": "LTIM",
@@ -228,52 +120,40 @@
     "exitPrice": 4895.9
   },
   {
-    "symbol": "TCS",
+    "symbol": "LUPIN",
     "interval": "1wk",
     "strategy": "SuperTrendLong",
     "entryType": "BUY",
     "exitType": "CLOSED",
     "entryDate": 1668364200,
-    "exitDate": 1673202600,
-    "profit": -3.15,
-    "entryPrice": 3315.95,
-    "exitPrice": 3211.55
+    "exitDate": 1668969000,
+    "profit": -3.47,
+    "entryPrice": 747.0,
+    "exitPrice": 721.05
   },
   {
-    "symbol": "INFY",
+    "symbol": "PFC",
     "interval": "1wk",
     "strategy": "SuperTrendLong",
     "entryType": "BUY",
+    "exitType": "CLOSED",
+    "entryDate": 1668364200,
+    "exitDate": 1669573800,
+    "profit": 13.47,
+    "entryPrice": 96.24,
+    "exitPrice": 109.2
+  },
+  {
+    "symbol": "ASTRAL",
+    "interval": "1wk",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1668969000,
-    "exitDate": 1671388200,
-    "profit": -4.47,
-    "entryPrice": 1593.4,
-    "exitPrice": 1522.2
-  },
-  {
-    "symbol": "ABBOTINDIA",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1669573800,
-    "exitDate": 1671993000,
-    "profit": 7.55,
-    "entryPrice": 20267.5,
-    "exitPrice": 21797.25
-  },
-  {
-    "symbol": "COFORGE",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1669573800,
     "exitDate": 1670178600,
-    "profit": 7.42,
-    "entryPrice": 3944.8,
-    "exitPrice": 4237.5
+    "profit": -7.24,
+    "entryPrice": 1411.5,
+    "exitPrice": 1513.76
   },
   {
     "symbol": "BPCL",
@@ -288,18 +168,6 @@
     "exitPrice": 162.55
   },
   {
-    "symbol": "BSOFT",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1670178600,
-    "exitDate": 1670783400,
-    "profit": -6.7,
-    "entryPrice": 331.55,
-    "exitPrice": 309.35
-  },
-  {
     "symbol": "IOC",
     "interval": "1wk",
     "strategy": "SuperTrendLong",
@@ -310,42 +178,6 @@
     "profit": -5.19,
     "entryPrice": 77.0,
     "exitPrice": 73.0
-  },
-  {
-    "symbol": "ABB",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1671388200,
-    "exitDate": 1671993000,
-    "profit": 5.56,
-    "entryPrice": 2838.5,
-    "exitPrice": 2680.75
-  },
-  {
-    "symbol": "BAJAJFINSV",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1671993000,
-    "exitDate": 1672597800,
-    "profit": -3.39,
-    "entryPrice": 1497.05,
-    "exitPrice": 1547.85
-  },
-  {
-    "symbol": "COALINDIA",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1671993000,
-    "exitDate": 1672597800,
-    "profit": -4.65,
-    "entryPrice": 215.05,
-    "exitPrice": 225.05
   },
   {
     "symbol": "DEEPAKNTR",
@@ -360,18 +192,6 @@
     "exitPrice": 1985.3
   },
   {
-    "symbol": "DIXON",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1671993000,
-    "exitDate": 1672597800,
-    "profit": -5.02,
-    "entryPrice": 3718.05,
-    "exitPrice": 3904.6
-  },
-  {
     "symbol": "EICHERMOT",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
@@ -382,18 +202,6 @@
     "profit": -3.66,
     "entryPrice": 3113.65,
     "exitPrice": 3227.75
-  },
-  {
-    "symbol": "HINDCOPPER",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1671993000,
-    "exitDate": 1672597800,
-    "profit": -9.6,
-    "entryPrice": 100.0,
-    "exitPrice": 109.6
   },
   {
     "symbol": "INDIACEM",
@@ -408,40 +216,28 @@
     "exitPrice": 218.45
   },
   {
-    "symbol": "IRCTC",
+    "symbol": "TATACHEM",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1671993000,
     "exitDate": 1672597800,
-    "profit": -5.34,
-    "entryPrice": 607.25,
-    "exitPrice": 639.7
+    "profit": -5.1,
+    "entryPrice": 891.7,
+    "exitPrice": 937.15
   },
   {
-    "symbol": "SAIL",
+    "symbol": "COALINDIA",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
-    "entryDate": 1671993000,
-    "exitDate": 1672597800,
-    "profit": -10.64,
-    "entryPrice": 74.7,
-    "exitPrice": 82.65
-  },
-  {
-    "symbol": "TRENT",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1671993000,
-    "exitDate": 1672597800,
-    "profit": -5.21,
-    "entryPrice": 1284.4,
-    "exitPrice": 1351.35
+    "entryDate": 1673202600,
+    "exitDate": 1674412200,
+    "profit": -5.95,
+    "entryPrice": 214.25,
+    "exitPrice": 227.0
   },
   {
     "symbol": "HINDPETRO",
@@ -456,16 +252,40 @@
     "exitPrice": 156.2
   },
   {
+    "symbol": "TRENT",
+    "interval": "1wk",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "CLOSED",
+    "entryDate": 1673807400,
+    "exitDate": 1676226600,
+    "profit": -10.24,
+    "entryPrice": 1205.4,
+    "exitPrice": 1328.8
+  },
+  {
+    "symbol": "CUB",
+    "interval": "1wk",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "CLOSED",
+    "entryDate": 1674412200,
+    "exitDate": 1675017000,
+    "profit": 5.13,
+    "entryPrice": 159.75,
+    "exitPrice": 151.55
+  },
+  {
     "symbol": "MFSL",
     "interval": "1wk",
     "strategy": "SuperTrendLong",
     "entryType": "BUY",
     "exitType": "CLOSED",
-    "entryDate": 1673807400,
-    "exitDate": 1674412200,
-    "profit": 4.53,
-    "entryPrice": 799.55,
-    "exitPrice": 835.75
+    "entryDate": 1674412200,
+    "exitDate": 1675621800,
+    "profit": -13.93,
+    "entryPrice": 835.75,
+    "exitPrice": 719.35
   },
   {
     "symbol": "ADANIENT",
@@ -492,28 +312,16 @@
     "exitPrice": 360.8
   },
   {
-    "symbol": "Nifty Bank",
+    "symbol": "CONCOR",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1675017000,
-    "exitDate": 1676226600,
-    "profit": -3.01,
-    "entryPrice": 40345.3,
-    "exitPrice": 41559.4
-  },
-  {
-    "symbol": "GRASIM",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1675017000,
-    "exitDate": 1676226600,
-    "profit": -3.6,
-    "entryPrice": 1572.2,
-    "exitPrice": 1628.82
+    "exitDate": 1675621800,
+    "profit": 4.22,
+    "entryPrice": 640.1,
+    "exitPrice": 613.1
   },
   {
     "symbol": "HDFCAMC",
@@ -528,16 +336,16 @@
     "exitPrice": 1815.25
   },
   {
-    "symbol": "INDHOTEL",
+    "symbol": "ICICIBANK",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1675017000,
     "exitDate": 1675621800,
-    "profit": -11.1,
-    "entryPrice": 286.45,
-    "exitPrice": 318.25
+    "profit": -5.7,
+    "entryPrice": 817.2,
+    "exitPrice": 863.8
   },
   {
     "symbol": "JKCEMENT",
@@ -552,16 +360,16 @@
     "exitPrice": 2802.95
   },
   {
-    "symbol": "MCDOWELL-N",
+    "symbol": "PIIND",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1675017000,
-    "exitDate": 1684089000,
-    "profit": -3.7,
-    "entryPrice": 767.15,
-    "exitPrice": 795.55
+    "exitDate": 1676226600,
+    "profit": -5.94,
+    "entryPrice": 2957.95,
+    "exitPrice": 3133.6
   },
   {
     "symbol": "SBIN",
@@ -576,16 +384,28 @@
     "exitPrice": 561.2
   },
   {
-    "symbol": "HDFCLIFE",
+    "symbol": "SBILIFE",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1675621800,
     "exitDate": 1676226600,
-    "profit": -6.88,
-    "entryPrice": 488.9,
-    "exitPrice": 522.55
+    "profit": -4.08,
+    "entryPrice": 1138.05,
+    "exitPrice": 1184.5
+  },
+  {
+    "symbol": "Nifty Bank",
+    "interval": "1wk",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "CLOSED",
+    "entryDate": 1677436200,
+    "exitDate": 1678041000,
+    "profit": -3.36,
+    "entryPrice": 39909.4,
+    "exitPrice": 41251.35
   },
   {
     "symbol": "MOTHERSON",
@@ -593,35 +413,11 @@
     "strategy": "SuperTrendLong",
     "entryType": "BUY",
     "exitType": "CLOSED",
-    "entryDate": 1676226600,
+    "entryDate": 1677436200,
     "exitDate": 1679250600,
-    "profit": -15.46,
-    "entryPrice": 80.2,
+    "profit": -17.77,
+    "entryPrice": 82.45,
     "exitPrice": 67.8
-  },
-  {
-    "symbol": "Nifty Financial Services",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1677436200,
-    "exitDate": 1681065000,
-    "profit": -3.35,
-    "entryPrice": 17864.1,
-    "exitPrice": 18462.15
-  },
-  {
-    "symbol": "MCX",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1677436200,
-    "exitDate": 1678041000,
-    "profit": -5.48,
-    "entryPrice": 1371.2,
-    "exitPrice": 1446.4
   },
   {
     "symbol": "VOLTAS",
@@ -636,16 +432,40 @@
     "exitPrice": 821.7
   },
   {
-    "symbol": "ESCORTS",
+    "symbol": "Nifty Financial Services",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "CLOSED",
     "entryDate": 1679250600,
-    "exitDate": 1679855400,
-    "profit": 4.12,
-    "entryPrice": 1910.6,
-    "exitPrice": 1831.85
+    "exitDate": 1681065000,
+    "profit": -4.47,
+    "entryPrice": 17671.4,
+    "exitPrice": 18462.15
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "interval": "1wk",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "CLOSED",
+    "entryDate": 1679250600,
+    "exitDate": 1680460200,
+    "profit": -4.65,
+    "entryPrice": 1020.5,
+    "exitPrice": 1067.95
+  },
+  {
+    "symbol": "M\u0026M",
+    "interval": "1wk",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "CLOSED",
+    "entryDate": 1679250600,
+    "exitDate": 1682274600,
+    "profit": -3.52,
+    "entryPrice": 1171.5,
+    "exitPrice": 1212.75
   },
   {
     "symbol": "AUROPHARMA",
@@ -670,18 +490,6 @@
     "profit": -4.44,
     "entryPrice": 135.1,
     "exitPrice": 141.1
-  },
-  {
-    "symbol": "TCS",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1679855400,
-    "exitDate": 1681065000,
-    "profit": -3.21,
-    "entryPrice": 3120.5,
-    "exitPrice": 3220.7
   },
   {
     "symbol": "AUBANK",
@@ -718,18 +526,6 @@
     "profit": -3.44,
     "entryPrice": 1893.65,
     "exitPrice": 1828.55
-  },
-  {
-    "symbol": "COLPAL",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1682879400,
-    "exitDate": 1687113000,
-    "profit": 4.05,
-    "entryPrice": 1595.1,
-    "exitPrice": 1659.7
   },
   {
     "symbol": "DIVISLAB",
@@ -780,6 +576,18 @@
     "exitPrice": 7023.9
   },
   {
+    "symbol": "BSOFT",
+    "interval": "1wk",
+    "strategy": "SuperTrendLong",
+    "entryType": "BUY",
+    "exitType": "CLOSED",
+    "entryDate": 1684089000,
+    "exitDate": 1684693800,
+    "profit": 8.83,
+    "entryPrice": 307.5,
+    "exitPrice": 334.65
+  },
+  {
     "symbol": "DRREDDY",
     "interval": "1wk",
     "strategy": "SuperTrendShort",
@@ -802,18 +610,6 @@
     "profit": -4.85,
     "entryPrice": 620.7,
     "exitPrice": 590.6
-  },
-  {
-    "symbol": "MARICO",
-    "interval": "1wk",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1684089000,
-    "exitDate": 1688927400,
-    "profit": -4.52,
-    "entryPrice": 541.5,
-    "exitPrice": 517.05
   },
   {
     "symbol": "PAGEIND",
@@ -960,18 +756,6 @@
     "exitPrice": 534.2
   },
   {
-    "symbol": "IEX",
-    "interval": "1wk",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1686508200,
-    "exitDate": 1687717800,
-    "profit": -3.75,
-    "entryPrice": 122.6,
-    "exitPrice": 127.2
-  },
-  {
     "symbol": "INDIACEM",
     "interval": "1wk",
     "strategy": "SuperTrendLong",
@@ -1102,6 +886,18 @@
     "profit": 4.43,
     "entryPrice": 2259.4,
     "exitPrice": 2359.6
+  },
+  {
+    "symbol": "METROPOLIS",
+    "interval": "1wk",
+    "strategy": "SuperTrendLong",
+    "entryType": "BUY",
+    "exitType": "CLOSED",
+    "entryDate": 1688322600,
+    "exitDate": 1689532200,
+    "profit": -3.8,
+    "entryPrice": 1493.1,
+    "exitPrice": 1436.4
   },
   {
     "symbol": "SRF",
@@ -1974,7 +1770,7 @@
     "entryType": "BUY",
     "exitType": "CLOSED",
     "entryDate": 1718562600,
-    "exitDate": 1722881258,
+    "exitDate": 1722976287,
     "profit": -4.24,
     "entryPrice": 551.7,
     "exitPrice": 528.3
@@ -2069,8 +1865,8 @@
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "OPEN",
-    "entryDate": 1722881241,
-    "exitDate": 1722881241,
+    "entryDate": 1722976277,
+    "exitDate": 1722976277,
     "profit": 0.0,
     "entryPrice": 289.35,
     "exitPrice": 289.35
