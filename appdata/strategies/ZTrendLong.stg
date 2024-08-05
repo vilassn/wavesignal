@@ -1,0 +1,37 @@
+{
+  "name": "ZTrendLong",
+  "selected": false,
+  "indicators": {
+    "close": "close",
+    "ztClose": "ztClose",
+    "ztOpen": "ztOpen",
+    "macd": "macd,12,26,9",
+    "macdHist": "macdHist,12,26,9",
+    "macdSignal": "macdSignal,12,26,9",
+    "bullishStreak": "bullishStreak,7",
+    "bearishStreak": "bearishStreak,7",
+    "fisher": "fisher,14"
+  },
+  "conditions": {
+    "cond1": "bullishStreak boolean",
+    "cond2": "bearishStreak boolean",
+    "cond3": "close over ztClose",
+    "cond4": "close over ztOpen",
+    "cond5": "close under ztClose",
+    "cond6": "close under ztOpen",
+    "cond7": "macd under macdHist",
+    "cond8": "macdSignal under macdHist",
+    "cond9": "macd over macdHist",
+    "cond10": "macdSignal over macdHist",
+    "cond11": "close stopLoss 3",
+    "cond12": "close stopGain 4",
+    "cond13": "macd over 0",
+    "cond14": "macd under 0",
+    "cond15": "fisher over 2",
+    "cond16": "fisher under -2"
+  },
+  "rules": {
+    "entry": "cond2 and cond3 and cond4 and cond7 and cond8 and cond14 and cond16",
+    "exit": "cond11 or cond12"
+  }
+}

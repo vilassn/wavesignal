@@ -1,0 +1,23 @@
+{
+  "name": "OpenHighShort",
+  "selected": false,
+  "indicators": {
+    "close": "close",
+    "open": "open",
+    "high": "high",
+    "low": "low",
+    "macd": "macd,12,26,9"
+  },
+  "conditions": {
+    "cond1": "close stopLoss 3",
+    "cond2": "close stopGain 4",
+    "cond3": "macd over 0",
+    "cond4": "macd under 0",
+    "cond5": "open isEqual high",
+    "cond6": "open isEqual low"
+  },
+  "rules": {
+    "entry": "cond5",
+    "exit": "cond1 or cond2"
+  }
+}

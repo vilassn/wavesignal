@@ -1,0 +1,272 @@
+[
+  {
+    "name": "POWERGRID",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "TATAPOWER",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ONGC",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "NTPC",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "APOLLOHOSP",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ADANIPORTS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BHARTIARTL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ULTRACEMCO",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BALKRISIND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "RELIANCE",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SHREECEM",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PETRONET",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "HINDPETRO",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "CONCOR",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BPCL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "GRASIM",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "IRCTC",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "GAIL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BHARATFORG",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "LT",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "CUMMINSIND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "IOC",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "MRF",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SIEMENS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "INDIGO",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "INDHOTEL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "DLF",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "AMBUJACEM",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ASHOKLEY",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "GODREJPROP",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "name": "OIL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BSE",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SYNGENE",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "LUPIN",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "HDFCAMC",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "M\u0026MFIN",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "DELHIVERY",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BALKRISIND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "FORTIS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PAYTM",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "NMDC",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "UNIONBANK",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "JUBLFOOD",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "LALPATHLAB",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BANKINDIA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "MAXHEALTH",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PATANJALI",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "NHPC",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "JSWENERGY",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "VOLTAS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "AUROPHARMA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "DEEPAKNTR",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "KPITTECH",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PETRONET",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "GMRINFRA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "AUBANK",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "HINDPETRO",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "CONCOR",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "IPCALAB",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "COFORGE",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "FEDERALBNK",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "NYKAA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "TATATECH",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PIIND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ESCORTS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "TATAELXSI",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "APLAPOLLO",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BDL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ALKEM",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "APOLLOTYRE",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PERSISTENT",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "IDFCFIRSTB",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "MFSL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "POLICYBZR",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "GLAND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "YESBANK",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PAGEIND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ASTRAL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BHARATFORG",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "CUMMINSIND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SONACOMS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "TATACOMM",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "RVNL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "CGPOWER",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "INDUSTOWER",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "IGL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "MANKIND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "TIINDIA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "OFSS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "POLYCAB",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SUNTV",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "MAHABANK",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "OBEROIRLTY",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "LICHSGFIN",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "MPHASIS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SJVN",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "MRF",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "TATACHEM",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "FACT",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "INDHOTEL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "IDEA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PEL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "LTTS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ABFRL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "LTF",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SAIL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BANDHANBNK",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SUZLON",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "DALBHARAT",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "UPL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "SUPREMEIND",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BIOCON",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "TORNTPOWER",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "JSWINFRA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "BHEL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "INDIANB",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "POONAWALLA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "KALYANKJIL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "MAZDOCK",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "LAURUSLABS",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ASHOKLEY",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "LODHA",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "GODREJPROP",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ABCAPITAL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "GUJGASLTD",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "PRESTIGE",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "IDBI",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "DIXON",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ACC",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "ZEEL",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  }
+]

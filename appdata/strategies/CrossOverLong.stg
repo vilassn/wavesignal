@@ -1,0 +1,25 @@
+{
+  "name": "CrossOverLong",
+  "selected": false,
+  "indicators": {
+    "close": "close",
+    "sma10": "sma,50",
+    "sma20": "sma,200",
+    "macd": "macd,12,26,9"
+  },
+  "conditions": {
+    "cond1": "close stopLoss 3",
+    "cond2": "close stopGain 4",
+    "cond3": "macd over 0",
+    "cond4": "macd under 0",
+    "cond5": "close crossedDown sma10",
+    "cond6": "close crossedUp sma10",
+    "cond7": "sma10 crossedDown sma20",
+    "cond8": "sma10 crossedUp sma20",
+    "cond9": "close crossedUp sma20"
+  },
+  "rules": {
+    "entry": "cond6 or cond9",
+    "exit": "cond1 or cond2"
+  }
+}

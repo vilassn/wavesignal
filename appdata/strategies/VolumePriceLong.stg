@@ -1,0 +1,46 @@
+{
+  "name": "VolumePriceLong",
+  "selected": false,
+  "indicators": {
+    "close": "close",
+    "open": "open",
+    "ztClose": "ztClose",
+    "ztOpen": "ztOpen",
+    "highestRocv": "highestRocv,14",
+    "highestClose": "highestClose,14",
+    "lowestClose": "lowestClose,14",
+    "roc": "roc,14",
+    "rocv": "rocv,14",
+    "macd": "macd,12,26,9",
+    "macdHist": "macdHist,12,26,9",
+    "macdSignal": "macdSignal,12,26,9",
+    "bullishStreak": "bullishStreak,7",
+    "bearishStreak": "bearishStreak,7",
+    "superTrend": "superTrend,7,3"
+  },
+  "conditions": {
+    "cond1": "bullishStreak boolean",
+    "cond2": "bearishStreak boolean",
+    "cond3": "close over ztClose",
+    "cond4": "close over ztOpen",
+    "cond5": "close under ztClose",
+    "cond6": "close under ztOpen",
+    "cond7": "macd under macdHist",
+    "cond8": "macdSignal under macdHist",
+    "cond9": "macd over macdHist",
+    "cond10": "macdSignal over macdHist",
+    "cond11": "close stopLoss 3",
+    "cond12": "close stopGain 4",
+    "cond13": "macd over 0",
+    "cond14": "macd under 0",
+    "cond15": "close over open",
+    "cond17": "close under open",
+    "cond18": "highestClose isEqual close",
+    "cond19": "lowestClose isEqual close",
+    "cond20": "highestRocv isEqual rocv"
+  },
+  "rules": {
+    "entry": "cond18 and cond20 and cond15 and cond14",
+    "exit": "cond11 or cond12"
+  }
+}

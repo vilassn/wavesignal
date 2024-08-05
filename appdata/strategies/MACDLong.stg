@@ -1,0 +1,26 @@
+{
+  "name": "MACDLong",
+  "selected": false,
+  "indicators": {
+    "macd": "macd,12,26,9",
+    "macdHist": "macdHist,12,26,9",
+    "macdSignal": "macdSignal,12,26,9",
+    "sma10": "sma,10",
+    "sma20": "sma,20",
+    "close": "close"
+  },
+  "conditions": {
+    "cond1": "close over sma10",
+    "cond2": "close under sma10",
+    "cond3": "macd crossedDown macdSignal",
+    "cond4": "macd crossedUp macdSignal",
+    "cond5": "close stopLoss 3",
+    "cond6": "close stopGain 4",
+    "cond7": "macd over 0",
+    "cond8": "macd under 0"
+  },
+  "rules": {
+    "entry": "cond1 and cond4 and cond8",
+    "exit": "cond5 or cond6"
+  }
+}
