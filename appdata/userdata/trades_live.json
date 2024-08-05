@@ -6,10 +6,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1720174500,
-    "exitDate": 1722616203,
-    "profit": 9.02,
+    "exitDate": 1722875402,
+    "profit": 7.61,
     "entryPrice": 1192.75,
-    "exitPrice": 1300.3
+    "exitPrice": 1283.5
   },
   {
     "symbol": "M\u0026M",
@@ -18,10 +18,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1720692900,
-    "exitDate": 1722616203,
-    "profit": -1.91,
+    "exitDate": 1722875400,
+    "profit": 0.71,
     "entryPrice": 2698.05,
-    "exitPrice": 2749.65
+    "exitPrice": 2678.95
   },
   {
     "symbol": "DEEPAKFERT",
@@ -30,10 +30,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616197,
-    "exitDate": 1722616197,
-    "profit": 0.0,
+    "exitDate": 1722875401,
+    "profit": -3.21,
     "entryPrice": 961.7,
-    "exitPrice": 961.7
+    "exitPrice": 930.8
   },
   {
     "symbol": "MOTHERSON",
@@ -42,10 +42,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616199,
-    "exitDate": 1722616199,
-    "profit": 0.0,
+    "exitDate": 1722875400,
+    "profit": -9.18,
     "entryPrice": 193.25,
-    "exitPrice": 193.25
+    "exitPrice": 175.51
   },
   {
     "symbol": "HDFCAMC",
@@ -54,10 +54,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616199,
-    "exitDate": 1722616199,
-    "profit": 0.0,
+    "exitDate": 1722875402,
+    "profit": -2.28,
     "entryPrice": 4123.8,
-    "exitPrice": 4123.8
+    "exitPrice": 4029.65
   },
   {
     "symbol": "CROMPTON",
@@ -66,10 +66,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616200,
-    "exitDate": 1722616200,
-    "profit": 0.0,
+    "exitDate": 1722875401,
+    "profit": -2.07,
     "entryPrice": 437.55,
-    "exitPrice": 437.55
+    "exitPrice": 428.5
   },
   {
     "symbol": "DEEPAKNTR",
@@ -78,70 +78,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616200,
-    "exitDate": 1722616200,
-    "profit": 0.0,
+    "exitDate": 1722875400,
+    "profit": -4.6,
     "entryPrice": 3095.95,
-    "exitPrice": 3095.95
-  },
-  {
-    "symbol": "KFINTECH",
-    "interval": "1d",
-    "strategy": "ChartLongStrategy",
-    "entryType": "BUY",
-    "exitType": "OPEN",
-    "entryDate": 1722616201,
-    "exitDate": 1722616201,
-    "profit": 0.0,
-    "entryPrice": 858.05,
-    "exitPrice": 858.05
-  },
-  {
-    "symbol": "BLUEDART",
-    "interval": "1d",
-    "strategy": "ChartLongStrategy",
-    "entryType": "BUY",
-    "exitType": "OPEN",
-    "entryDate": 1722616201,
-    "exitDate": 1722616201,
-    "profit": 0.0,
-    "entryPrice": 8114.85,
-    "exitPrice": 8114.85
-  },
-  {
-    "symbol": "SYNGENE",
-    "interval": "1d",
-    "strategy": "ChartLongStrategy",
-    "entryType": "BUY",
-    "exitType": "OPEN",
-    "entryDate": 1722616202,
-    "exitDate": 1722616202,
-    "profit": 0.0,
-    "entryPrice": 820.75,
-    "exitPrice": 820.75
-  },
-  {
-    "symbol": "CAMPUS",
-    "interval": "1d",
-    "strategy": "ChartLongStrategy",
-    "entryType": "BUY",
-    "exitType": "OPEN",
-    "entryDate": 1722616202,
-    "exitDate": 1722616202,
-    "profit": 0.0,
-    "entryPrice": 310.35,
-    "exitPrice": 310.35
-  },
-  {
-    "symbol": "LALPATHLAB",
-    "interval": "1d",
-    "strategy": "ChartLongStrategy",
-    "entryType": "BUY",
-    "exitType": "OPEN",
-    "entryDate": 1722616201,
-    "exitDate": 1722616201,
-    "profit": 0.0,
-    "entryPrice": 3096.6,
-    "exitPrice": 3096.6
+    "exitPrice": 2953.45
   },
   {
     "symbol": "LICI",
@@ -150,10 +90,46 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616200,
-    "exitDate": 1722616200,
-    "profit": 0.0,
+    "exitDate": 1722875403,
+    "profit": -6.1,
     "entryPrice": 1179.55,
-    "exitPrice": 1179.55
+    "exitPrice": 1107.65
+  },
+  {
+    "symbol": "KFINTECH",
+    "interval": "1d",
+    "strategy": "ChartLongStrategy",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1722616201,
+    "exitDate": 1722875404,
+    "profit": -4.01,
+    "entryPrice": 858.05,
+    "exitPrice": 823.65
+  },
+  {
+    "symbol": "BLUEDART",
+    "interval": "1d",
+    "strategy": "ChartLongStrategy",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1722616201,
+    "exitDate": 1722875398,
+    "profit": -2.07,
+    "entryPrice": 8114.85,
+    "exitPrice": 7947.0
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "interval": "1d",
+    "strategy": "ChartLongStrategy",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1722616201,
+    "exitDate": 1722875403,
+    "profit": 2.05,
+    "entryPrice": 3096.6,
+    "exitPrice": 3160.15
   },
   {
     "symbol": "GRANULES",
@@ -162,10 +138,34 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616201,
-    "exitDate": 1722616201,
-    "profit": 0.0,
+    "exitDate": 1722875403,
+    "profit": -0.68,
     "entryPrice": 646.1,
-    "exitPrice": 646.1
+    "exitPrice": 641.7
+  },
+  {
+    "symbol": "SYNGENE",
+    "interval": "1d",
+    "strategy": "ChartLongStrategy",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1722616202,
+    "exitDate": 1722875404,
+    "profit": -2.44,
+    "entryPrice": 820.75,
+    "exitPrice": 800.7
+  },
+  {
+    "symbol": "CAMPUS",
+    "interval": "1d",
+    "strategy": "ChartLongStrategy",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1722616202,
+    "exitDate": 1722875400,
+    "profit": -5.32,
+    "entryPrice": 310.35,
+    "exitPrice": 293.85
   },
   {
     "symbol": "MARICO",
@@ -174,9 +174,9 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616204,
-    "exitDate": 1722616204,
-    "profit": 0.0,
+    "exitDate": 1722875399,
+    "profit": 1.47,
     "entryPrice": 662.4,
-    "exitPrice": 662.4
+    "exitPrice": 672.15
   }
 ]

@@ -115,12 +115,12 @@
     {
       "name": "1d",
       "value": 86400,
-      "selected": true
+      "selected": false
     },
     {
       "name": "1w",
       "value": 604800,
-      "selected": false
+      "selected": true
     }
   ],
   "mIndicators": [
@@ -133,7 +133,7 @@
       }
     },
     {
-      "name": "SMA10 : {period\u003d50}",
+      "name": "SMA50 : {period\u003d50}",
       "selected": true,
       "type": "IND_SMA",
       "params": {
@@ -142,7 +142,7 @@
     },
     {
       "name": "EMA20 : {period\u003d20}",
-      "selected": true,
+      "selected": false,
       "type": "IND_EMA",
       "params": {
         "period": 20
@@ -168,7 +168,7 @@
     },
     {
       "name": "SuperTrend : {period\u003d7, multiplier\u003d3}",
-      "selected": false,
+      "selected": true,
       "type": "IND_SUPERTREND",
       "params": {
         "period": 7,
@@ -269,7 +269,7 @@
     },
     {
       "name": "Volume : {period\u003d3}",
-      "selected": true,
+      "selected": false,
       "type": "IND_VOLUME",
       "params": {
         "period": 3
@@ -336,11 +336,6 @@
   ],
   "mSeriesLoaders": [
     {
-      "name": "NSE",
-      "selected": false,
-      "loaderType": "LOADER_NSE"
-    },
-    {
       "name": "Yahoo",
       "selected": true,
       "loaderType": "LOADER_YAHOO"
@@ -352,11 +347,6 @@
     }
   ],
   "mLastBarLoaders": [
-    {
-      "name": "NSE",
-      "selected": false,
-      "loaderType": "LOADER_NSE"
-    },
     {
       "name": "Yahoo",
       "selected": true,
@@ -430,7 +420,7 @@
       "selected": true
     },
     "ST_PRACTISEDATE": {
-      "name": "20240110",
+      "name": "20190525",
       "value": 0,
       "selected": false
     },
@@ -446,12 +436,12 @@
     },
     "ST_LOADBARS": {
       "name": "LoadBars",
-      "value": 3000,
+      "value": 1000,
       "selected": false
     },
     "ST_SCANBARS": {
       "name": "ScanBars",
-      "value": 2000,
+      "value": 100,
       "selected": false
     },
     "ST_PROFTRGT": {
