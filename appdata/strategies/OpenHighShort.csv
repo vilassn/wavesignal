@@ -1,0 +1,17 @@
+Category,Name,Values
+General,name,OpenHighShort
+General,selected,False
+Indicators,close,close
+Indicators,open,open
+Indicators,high,high
+Indicators,low,low
+Indicators,macd,macd.12.26.9
+Conditions,cond1,close stopLoss 3
+Conditions,cond2,close stopGain 4
+Conditions,cond3,macd over 0
+Conditions,cond4,macd under 0
+Conditions,cond5,open isEqual high
+Conditions,cond6,open isEqual low
+Rules,entry,cond5
+Rules,exit,cond1 or cond2
+

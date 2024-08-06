@@ -1,0 +1,13 @@
+Category,Name,Values
+General,name,CrossOverRLong
+General,selected,False
+Indicators,close,close
+Indicators,sma10,sma.10
+Indicators,sma20,sma.20
+Indicators,sma30,sma.30
+Indicators,macd,macd.12.26.9
+Conditions,cond7,sma10 crossedDown sma20
+Conditions,cond8,sma20 crossedUp sma30
+Conditions,cond9,close crossedUp sma30
+Rules,entry,cond8
+Rules,exit,cond7

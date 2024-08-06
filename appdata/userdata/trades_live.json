@@ -6,10 +6,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1720174500,
-    "exitDate": 1722875402,
-    "profit": 7.61,
+    "exitDate": 1722961798,
+    "profit": 10.61,
     "entryPrice": 1192.75,
-    "exitPrice": 1283.5
+    "exitPrice": 1319.35
   },
   {
     "symbol": "M\u0026M",
@@ -18,10 +18,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1720692900,
-    "exitDate": 1722875400,
-    "profit": 0.71,
+    "exitDate": 1722961799,
+    "profit": 2.41,
     "entryPrice": 2698.05,
-    "exitPrice": 2678.95
+    "exitPrice": 2632.95
   },
   {
     "symbol": "DEEPAKFERT",
@@ -30,10 +30,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616197,
-    "exitDate": 1722875401,
-    "profit": -3.21,
+    "exitDate": 1722961802,
+    "profit": -1.36,
     "entryPrice": 961.7,
-    "exitPrice": 930.8
+    "exitPrice": 948.65
   },
   {
     "symbol": "MOTHERSON",
@@ -42,10 +42,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616199,
-    "exitDate": 1722875400,
-    "profit": -9.18,
+    "exitDate": 1722961800,
+    "profit": -9.26,
     "entryPrice": 193.25,
-    "exitPrice": 175.51
+    "exitPrice": 175.35
   },
   {
     "symbol": "HDFCAMC",
@@ -54,10 +54,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616199,
-    "exitDate": 1722875402,
-    "profit": -2.28,
+    "exitDate": 1722961802,
+    "profit": -3.39,
     "entryPrice": 4123.8,
-    "exitPrice": 4029.65
+    "exitPrice": 3984.1
   },
   {
     "symbol": "CROMPTON",
@@ -66,10 +66,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616200,
-    "exitDate": 1722875401,
-    "profit": -2.07,
+    "exitDate": 1722961798,
+    "profit": -4.81,
     "entryPrice": 437.55,
-    "exitPrice": 428.5
+    "exitPrice": 416.5
   },
   {
     "symbol": "DEEPAKNTR",
@@ -78,10 +78,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616200,
-    "exitDate": 1722875400,
-    "profit": -4.6,
+    "exitDate": 1722961801,
+    "profit": -2.36,
     "entryPrice": 3095.95,
-    "exitPrice": 2953.45
+    "exitPrice": 3022.75
   },
   {
     "symbol": "LICI",
@@ -90,10 +90,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616200,
-    "exitDate": 1722875403,
-    "profit": -6.1,
+    "exitDate": 1722961803,
+    "profit": -8.48,
     "entryPrice": 1179.55,
-    "exitPrice": 1107.65
+    "exitPrice": 1079.55
   },
   {
     "symbol": "KFINTECH",
@@ -102,10 +102,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616201,
-    "exitDate": 1722875404,
-    "profit": -4.01,
+    "exitDate": 1722961804,
+    "profit": -3.13,
     "entryPrice": 858.05,
-    "exitPrice": 823.65
+    "exitPrice": 831.2
   },
   {
     "symbol": "BLUEDART",
@@ -114,10 +114,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616201,
-    "exitDate": 1722875398,
-    "profit": -2.07,
+    "exitDate": 1722961797,
+    "profit": -0.06,
     "entryPrice": 8114.85,
-    "exitPrice": 7947.0
+    "exitPrice": 8109.6
   },
   {
     "symbol": "LALPATHLAB",
@@ -126,10 +126,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616201,
-    "exitDate": 1722875403,
-    "profit": 2.05,
+    "exitDate": 1722961804,
+    "profit": 2.31,
     "entryPrice": 3096.6,
-    "exitPrice": 3160.15
+    "exitPrice": 3168.25
   },
   {
     "symbol": "GRANULES",
@@ -138,10 +138,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616201,
-    "exitDate": 1722875403,
-    "profit": -0.68,
+    "exitDate": 1722961803,
+    "profit": 0.45,
     "entryPrice": 646.1,
-    "exitPrice": 641.7
+    "exitPrice": 649.0
   },
   {
     "symbol": "SYNGENE",
@@ -150,10 +150,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616202,
-    "exitDate": 1722875404,
-    "profit": -2.44,
+    "exitDate": 1722961801,
+    "profit": 0.02,
     "entryPrice": 820.75,
-    "exitPrice": 800.7
+    "exitPrice": 820.95
   },
   {
     "symbol": "CAMPUS",
@@ -162,10 +162,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616202,
-    "exitDate": 1722875400,
-    "profit": -5.32,
+    "exitDate": 1722961799,
+    "profit": -5.51,
     "entryPrice": 310.35,
-    "exitPrice": 293.85
+    "exitPrice": 293.25
   },
   {
     "symbol": "MARICO",
@@ -174,9 +174,9 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1722616204,
-    "exitDate": 1722875399,
-    "profit": 1.47,
+    "exitDate": 1722961800,
+    "profit": -5.12,
     "entryPrice": 662.4,
-    "exitPrice": 672.15
+    "exitPrice": 628.5
   }
 ]

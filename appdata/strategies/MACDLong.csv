@@ -1,0 +1,20 @@
+Category,Name,Values
+General,name,MACDLong
+General,selected,False
+Indicators,macd,macd.12.26.9
+Indicators,macdHist,macdHist.12.26.9
+Indicators,macdSignal,macdSignal.12.26.9
+Indicators,sma10,sma.10
+Indicators,sma20,sma.20
+Indicators,close,close
+Conditions,cond1,close over sma10
+Conditions,cond2,close under sma10
+Conditions,cond3,macd crossedDown macdSignal
+Conditions,cond4,macd crossedUp macdSignal
+Conditions,cond5,close stopLoss 3
+Conditions,cond6,close stopGain 4
+Conditions,cond7,macd over 0
+Conditions,cond8,macd under 0
+Rules,entry,cond1 and cond4 and cond8
+Rules,exit,cond5 or cond6
+

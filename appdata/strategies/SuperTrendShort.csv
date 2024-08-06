@@ -1,0 +1,15 @@
+Category,Name,Values
+General,name,SuperTrendShort
+General,selected,True
+Indicators,close,close
+Indicators,macd,macd.12.26.9
+Indicators,superTrend,superTrend.7.3
+Conditions,cond1,close stopLoss 3
+Conditions,cond2,close stopGain 4
+Conditions,cond3,macd over 0
+Conditions,cond4,macd under 0
+Conditions,cond5,close crossedDown superTrend
+Conditions,cond6,close crossedUp superTrend
+Rules,entry,cond3 and cond5
+Rules,exit,cond1 or cond2
+
