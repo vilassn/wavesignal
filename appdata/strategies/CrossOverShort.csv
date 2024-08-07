@@ -1,18 +1,17 @@
-Category,Name,Values
-General,name,CrossOverShort
-General,selected,False
-Indicators,close,close
-Indicators,sma10,sma.10
-Indicators,sma20,sma.20
-Indicators,macd,macd.12.26.9
-Conditions,cond1,close stopLoss 3
-Conditions,cond2,close stopGain 4
-Conditions,cond3,macd over 0
-Conditions,cond4,macd under 0
-Conditions,cond5,close crossedDown sma10
-Conditions,cond6,close crossedUp sma10
-Conditions,cond7,sma10 crossedDown sma20
-Conditions,cond8,sma10 crossedUp sma20
-Rules,entry,cond3 and cond7
-Rules,exit,cond1 or cond2
-
+Type,Variable,Value
+Info,name,CrossOverShort
+Info,selected,false
+Indicator,sma10,sma.10
+Indicator,sma20,sma.20
+Indicator,macd,macd.12.26.9
+Indicator,close,close
+Condition,cond8,sma10 crossedUp sma20
+Condition,cond7,sma10 crossedDown sma20
+Condition,cond6,close crossedUp sma10
+Condition,cond5,close crossedDown sma10
+Condition,cond4,macd under 0
+Condition,cond3,macd over 0
+Condition,cond2,close stopGain 4
+Condition,cond1,close stopLoss 3
+Rule,entry,cond3 and cond7
+Rule,exit,cond1 or cond2

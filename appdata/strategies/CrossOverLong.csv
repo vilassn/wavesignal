@@ -1,19 +1,18 @@
-Category,Name,Values
-General,name,CrossOverLong
-General,selected,False
-Indicators,close,close
-Indicators,sma10,sma.50
-Indicators,sma20,sma.200
-Indicators,macd,macd.12.26.9
-Conditions,cond1,close stopLoss 3
-Conditions,cond2,close stopGain 4
-Conditions,cond3,macd over 0
-Conditions,cond4,macd under 0
-Conditions,cond5,close crossedDown sma10
-Conditions,cond6,close crossedUp sma10
-Conditions,cond7,sma10 crossedDown sma20
-Conditions,cond8,sma10 crossedUp sma20
-Conditions,cond9,close crossedUp sma20
-Rules,entry,cond6 or cond9
-Rules,exit,cond1 or cond2
-
+Type,Variable,Value
+Info,name,CrossOverLong
+Info,selected,false
+Indicator,sma10,sma.5
+Indicator,sma20,sma.200
+Indicator,macd,macd.12.26.9
+Indicator,close,close
+Condition,cond9,close crossedUp sma20
+Condition,cond8,sma10 crossedUp sma20
+Condition,cond7,sma10 crossedDown sma20
+Condition,cond6,close crossedUp sma10
+Condition,cond5,close crossedDown sma10
+Condition,cond4,macd under 0
+Condition,cond3,macd over 0
+Condition,cond2,close stopGain 4
+Condition,cond1,close stopLoss 3
+Rule,entry,cond6 or cond9
+Rule,exit,cond1 or cond2

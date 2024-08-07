@@ -1,30 +1,30 @@
-Category,Name,Values
-General,name,ZTrendShort
-General,selected,False
-Indicators,close,close
-Indicators,ztClose,ztClose
-Indicators,ztOpen,ztOpen
-Indicators,macd,macd.12.26.9
-Indicators,macdHist,macdHist.12.26.9
-Indicators,macdSignal,macdSignal.12.26.9
-Indicators,bullishStreak,bullishStreak.7
-Indicators,bearishStreak,bearishStreak.7
-Indicators,fisher,fisher.14
-Conditions,cond1,bullishStreak boolean
-Conditions,cond2,bearishStreak boolean
-Conditions,cond3,close over ztClose
-Conditions,cond4,close over ztOpen
-Conditions,cond5,close under ztClose
-Conditions,cond6,close under ztOpen
-Conditions,cond7,macd under macdHist
-Conditions,cond8,macdSignal under macdHist
-Conditions,cond9,macd over macdHist
-Conditions,cond10,macdSignal over macdHist
-Conditions,cond11,close stopLoss 3
-Conditions,cond12,close stopGain 4
-Conditions,cond13,macd over 0
-Conditions,cond14,macd under 0
-Conditions,cond15,fisher over 2
-Conditions,cond16,fisher under -2
-Rules,entry,cond1 and cond5 and cond6 and cond9 and cond10 and cond13 and cond15
-Rules,exit,cond11 or cond12
+Type,Variable,Value
+Info,name,ZTrendShort
+Info,selected,false
+Indicator,bullishStreak,bullishStreak.7
+Indicator,ztClose,ztClose
+Indicator,ztOpen,ztOpen
+Indicator,macd,macd.12.26.9
+Indicator,macdHist,macdHist.12.26.9
+Indicator,macdSignal,macdSignal.12.26.9
+Indicator,close,close
+Indicator,bearishStreak,bearishStreak.7
+Indicator,fisher,fisher.14
+Condition,cond1,bullishStreak boolean
+Condition,cond9,macd over macdHist
+Condition,cond8,macdSignal under macdHist
+Condition,cond7,macd under macdHist
+Condition,cond6,close under ztOpen
+Condition,cond5,close under ztClose
+Condition,cond4,close over ztOpen
+Condition,cond3,close over ztClose
+Condition,cond2,bearishStreak boolean
+Condition,cond16,fisher under -2
+Condition,cond15,fisher over 2
+Condition,cond14,macd under 0
+Condition,cond13,macd over 0
+Condition,cond12,close stopGain 4
+Condition,cond11,close stopLoss 3
+Condition,cond10,macdSignal over macdHist
+Rule,entry,cond1 and cond5 and cond6 and cond9 and cond10 and cond13 and cond15
+Rule,exit,cond11 or cond12

@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "SUNDARMFIN",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1723048201,
+    "exitDate": 1723048201,
+    "profit": 0.0,
+    "entryPrice": 3911.6,
+    "exitPrice": 3911.6
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1723048200,
+    "exitDate": 1723048200,
+    "profit": 0.0,
+    "entryPrice": 1345.15,
+    "exitPrice": 1345.15
+  },
+  {
+    "symbol": "NESTLEIND",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1723048199,
+    "exitDate": 1723048199,
+    "profit": 0.0,
+    "entryPrice": 2522.8,
+    "exitPrice": 2522.8
+  },
+  {
+    "symbol": "BATAINDIA",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1723048199,
+    "exitDate": 1723048199,
+    "profit": 0.0,
+    "entryPrice": 1465.95,
+    "exitPrice": 1465.95
+  },
+  {
+    "symbol": "HINDCOPPER",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1722961800,
+    "exitDate": 1723048201,
+    "profit": -4.42,
+    "entryPrice": 283.65,
+    "exitPrice": 296.2
+  }
+]

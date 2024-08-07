@@ -5,7 +5,7 @@
   },
   {
     "name": "FnO Stocks",
-    "selected": true
+    "selected": false
   },
   {
     "name": "Favorites",
@@ -77,7 +77,7 @@
   },
   {
     "name": "Nifty 500",
-    "selected": false
+    "selected": true
   },
   {
     "name": "Nifty Financial Services",

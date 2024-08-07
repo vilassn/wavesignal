@@ -1,40 +1,39 @@
-Category,Name,Values
-General,name,VolumePriceShort
-General,selected,False
-Indicators,close,close
-Indicators,open,open
-Indicators,ztClose,ztClose
-Indicators,ztOpen,ztOpen
-Indicators,highestRocv,highestRocv.14
-Indicators,highestClose,highestClose.14
-Indicators,lowestClose,lowestClose.14
-Indicators,roc,roc.14
-Indicators,rocv,rocv.14
-Indicators,macd,macd.12.26.9
-Indicators,macdHist,macdHist.12.26.9
-Indicators,macdSignal,macdSignal.12.26.9
-Indicators,bullishStreak,bullishStreak.7
-Indicators,bearishStreak,bearishStreak.7
-Indicators,superTrend,superTrend.7.3
-Conditions,cond1,bullishStreak boolean
-Conditions,cond2,bearishStreak boolean
-Conditions,cond3,close over ztClose
-Conditions,cond4,close over ztOpen
-Conditions,cond5,close under ztClose
-Conditions,cond6,close under ztOpen
-Conditions,cond7,macd under macdHist
-Conditions,cond8,macdSignal under macdHist
-Conditions,cond9,macd over macdHist
-Conditions,cond10,macdSignal over macdHist
-Conditions,cond11,close stopLoss 3
-Conditions,cond12,close stopGain 4
-Conditions,cond13,macd over 0
-Conditions,cond14,macd under 0
-Conditions,cond15,close over open
-Conditions,cond17,close under open
-Conditions,cond18,highestClose isEqual close
-Conditions,cond19,lowestClose isEqual close
-Conditions,cond20,highestRocv isEqual rocv
-Rules,entry,cond19 and cond20 and cond17 and cond13
-Rules,exit,cond11 or cond12
-
+Type,Variable,Value
+Info,name,VolumePriceShort
+Info,selected,false
+Indicator,bullishStreak,bullishStreak.7
+Indicator,rocv,rocv.14
+Indicator,macd,macd.12.26.9
+Indicator,roc,roc.14
+Indicator,macdSignal,macdSignal.12.26.9
+Indicator,ztClose,ztClose
+Indicator,ztOpen,ztOpen
+Indicator,highestRocv,highestRocv.14
+Indicator,macdHist,macdHist.12.26.9
+Indicator,superTrend,superTrend.7.3
+Indicator,close,close
+Indicator,lowestClose,lowestClose.14
+Indicator,bearishStreak,bearishStreak.7
+Indicator,open,open
+Indicator,highestClose,highestClose.14
+Condition,cond1,bullishStreak boolean
+Condition,cond9,macd over macdHist
+Condition,cond8,macdSignal under macdHist
+Condition,cond7,macd under macdHist
+Condition,cond6,close under ztOpen
+Condition,cond5,close under ztClose
+Condition,cond4,close over ztOpen
+Condition,cond19,lowestClose isEqual close
+Condition,cond3,close over ztClose
+Condition,cond18,highestClose isEqual close
+Condition,cond2,bearishStreak boolean
+Condition,cond17,close under open
+Condition,cond15,close over open
+Condition,cond14,macd under 0
+Condition,cond13,macd over 0
+Condition,cond12,close stopGain 4
+Condition,cond11,close stopLoss 3
+Condition,cond10,macdSignal over macdHist
+Condition,cond20,highestRocv isEqual rocv
+Rule,entry,cond19 and cond20 and cond17 and cond13
+Rule,exit,cond11 or cond12

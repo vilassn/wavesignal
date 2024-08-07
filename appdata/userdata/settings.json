@@ -441,7 +441,7 @@
     },
     "ST_SCANBARS": {
       "name": "ScanBars",
-      "value": 100,
+      "value": 1000,
       "selected": false
     },
     "ST_PROFTRGT": {

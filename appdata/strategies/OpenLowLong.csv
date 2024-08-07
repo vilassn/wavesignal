@@ -1,17 +1,16 @@
-Category,Name,Values
-General,name,OpenLowLong
-General,selected,False
-Indicators,close,close
-Indicators,open,open
-Indicators,high,high
-Indicators,low,low
-Indicators,macd,macd.12.26.9
-Conditions,cond1,close stopLoss 3
-Conditions,cond2,close stopGain 4
-Conditions,cond3,macd over 0
-Conditions,cond4,macd under 0
-Conditions,cond5,open isEqual high
-Conditions,cond6,open isEqual low
-Rules,entry,cond6
-Rules,exit,cond1 or cond2
-
+Type,Variable,Value
+Info,name,OpenLowLong
+Info,selected,false
+Indicator,high,high
+Indicator,low,low
+Indicator,macd,macd.12.26.9
+Indicator,close,close
+Indicator,open,open
+Condition,cond6,open isEqual low
+Condition,cond5,open isEqual high
+Condition,cond4,macd under 0
+Condition,cond3,macd over 0
+Condition,cond2,close stopGain 4
+Condition,cond1,close stopLoss 3
+Rule,entry,cond6
+Rule,exit,cond1 or cond2
