@@ -8,6 +8,14 @@
     "selected": false
   },
   {
+    "name": "NSE Stocks",
+    "selected": true
+  },
+  {
+    "name": "BSE Stocks",
+    "selected": false
+  },
+  {
     "name": "Favorites",
     "selected": false
   },
@@ -77,7 +85,7 @@
   },
   {
     "name": "Nifty 500",
-    "selected": true
+    "selected": false
   },
   {
     "name": "Nifty Financial Services",
