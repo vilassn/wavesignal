@@ -4,7 +4,7 @@
 
 **Important Note:** This project is distributed as an executable and does not include the source code.
 
-![WaveSignal](screenshots/Screenshot_2020-03-11_12-01-39.png)
+![WaveSignal](screenshot/Screenshot_2020-03-11_12-01-39.png)
 
 ## Features of WaveSignal
 
