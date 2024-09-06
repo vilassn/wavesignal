@@ -1,0 +1,22 @@
+settingName,name,value,selected
+ST_EXPNEXT,next,0,true
+ST_ZTAVG,ZT Average,3,false
+ST_AUTOTRADEMODE,AutoTrade,0,false
+ST_PROFTRGT,ProfitTarget,4,false
+ST_AUTOSCANGRACE,AutoScanGrace,15,false
+ST_EXPNEAR,near,0,true
+ST_OIUPDATE,OIUpdate,0,false
+ST_SECRETCODE,PUFBQUFBTFFVWGNn,0,false
+ST_AUTOTRADETIMING,AutoTradeTiming,325,false
+ST_PRACTISEDATE,20190525,0,false
+ST_USERID,user.trial123@xyz.com,0,false
+ST_LOADBARS,LoadBars,1000,false
+ST_LIVEMODE,Live,0,true
+ST_EXPFAR,far,0,true
+ST_STOPLOSS,Stoploss,3,false
+ST_AUTOSCANINTRVL,AutoScanIntrvl,60,false
+ST_SCANBARS,ScanBars,500,false
+ST_ZTSTREAK,ZT Streak,7,false
+ST_OFFLINEMODE,Offline,0,false
+ST_STGSCRIPTMODE,UseTextStg,0,true
+ST_AUTOSCANMODE,AutoScan,0,false

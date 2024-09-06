@@ -1,0 +1,4 @@
+name,value,selected
+CandleStick,0,true
+Heikin Ashi,0,false
+Line,0,false

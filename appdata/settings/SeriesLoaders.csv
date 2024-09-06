@@ -1,0 +1,3 @@
+name,selected,loaderType
+Yahoo,true,LOADER_YAHOO
+ETimes,false,LOADER_ET
