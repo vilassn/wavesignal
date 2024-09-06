@@ -1,0 +1,8 @@
+chartSettingName,name,value,selected
+CHARTST_CS,CandleStick,0,true
+CHARTST_INT1D,1d,86400,false
+CHARTST_LN,Line,0,false
+CHARTST_HA,Heikin Ashi,0,false
+CHARTST_INT1H,1h,3600,false
+CHARTST_INT1W,1w,604800,true
+CHARTST_ZT,ZTrend,0,false
