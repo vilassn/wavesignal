@@ -1,1 +1,1 @@
-Version 1.0.29, Built on 2024-08-05
+Version 1.0.30, Built on 2024-09-07
