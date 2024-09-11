@@ -1,0 +1,12 @@
+Type,Variable,Value
+Info,name,GoldenCrossLong
+Info,selected,false
+Indicator,sma200,sma.200
+Indicator,sma50,sma.50
+Indicator,close,close
+Condition,cond4,close stopLoss 7
+Condition,cond3,close stopGain 7
+Condition,cond2,sma50 crossedDown sma200
+Condition,cond1,sma50 crossedUp sma200
+Rule,entry,cond1
+Rule,exit,cond3 or cond4

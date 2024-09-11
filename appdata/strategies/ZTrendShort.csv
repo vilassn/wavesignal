@@ -1,6 +1,6 @@
 Type,Variable,Value
 Info,name,ZTrendShort
-Info,selected,false
+Info,selected,true
 Indicator,bullishStreak,bullishStreak.7
 Indicator,ztClose,ztClose
 Indicator,ztOpen,ztOpen

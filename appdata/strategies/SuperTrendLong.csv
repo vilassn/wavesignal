@@ -8,7 +8,7 @@ Condition,cond6,close crossedUp superTrend
 Condition,cond5,close crossedDown superTrend
 Condition,cond4,macd under 0
 Condition,cond3,macd over 0
-Condition,cond2,close stopGain 4
-Condition,cond1,close stopLoss 3
+Condition,cond2,close stopGain 7
+Condition,cond1,close stopLoss 5
 Rule,entry,cond4 and cond6
 Rule,exit,cond1 or cond2

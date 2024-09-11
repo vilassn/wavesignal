@@ -1,7 +1,7 @@
 Name,Selected,Type,Params
 Close,false,IND_CLOSELN,period=0;
 SMA50,true,IND_SMA,period=50;
-EMA20,false,IND_EMA,period=20;
+SMA200,false,IND_EMA,period=200;
 ZTrend,false,IND_ZTREND,average=3;streak=7;
 ZTrendOverlay,false,IND_ZTRENDOL,average=3;streak=7;
 SuperTrend,true,IND_SUPERTREND,period=7;multiplier=3;
@@ -17,8 +17,8 @@ ROC,false,IND_ROC,period=14;
 BB,false,IND_BB,period=14;
 STDDEV,false,IND_STDDEV,period=14;
 Volume,false,IND_VOLUME,period=3;
-OBV,true,IND_OBV,period=14;
-ROCV,false,IND_ROCV,period=14;
+OBV,false,IND_OBV,period=14;
+ROCV,true,IND_ROCV,period=14;
 VolumeOsci,false,IND_VOLUMEOSC,fast=12;slow=26;
 CombinedOI,false,IND_COMBOI,period=0;
 DonchianChannels,false,IND_DONCHIAN,period=14;
