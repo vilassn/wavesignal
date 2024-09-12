@@ -1,0 +1,19 @@
+Type,Variable,Value
+Info,name,MacdNewShort
+Info,selected,false
+Indicator,sma10,sma.10
+Indicator,sma20,sma.20
+Indicator,macd,macd.12.26.9
+Indicator,macdHist,macdHist.12.26.9
+Indicator,macdSignal,macdSignal.12.26.9
+Indicator,close,close
+Condition,cond8,macd under 0
+Condition,cond7,macd over 0
+Condition,cond6,close stopGain 25
+Condition,cond5,close stopLoss 25
+Condition,cond4,macd crossedUp 0
+Condition,cond3,macd crossedDown 0
+Condition,cond2,close under sma10
+Condition,cond1,close over sma10
+Rule,entry,cond3
+Rule,exit,cond5 or cond6 or cond4
