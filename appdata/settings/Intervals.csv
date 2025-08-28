@@ -1,5 +1,5 @@
 name,value,selected
 15m,900,false
 1h,3600,false
-1d,86400,false
-1w,604800,true
+1d,86400,true
+1w,604800,false
