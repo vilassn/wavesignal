@@ -1,6 +1,6 @@
 Type,Variable,Value
 Info,name,SuperTrendLong
-Info,selected,true
+Info,selected,false
 Indicator,macd,macd.12.26.9
 Indicator,superTrend,superTrend.7.3
 Indicator,close,close

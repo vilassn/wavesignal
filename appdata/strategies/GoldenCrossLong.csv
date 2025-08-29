@@ -1,6 +1,6 @@
 Type,Variable,Value
 Info,name,GoldenCrossLong
-Info,selected,false
+Info,selected,true
 Indicator,sma200,sma.200
 Indicator,sma50,sma.50
 Indicator,close,close
