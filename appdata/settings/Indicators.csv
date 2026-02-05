@@ -17,7 +17,7 @@ ROC,false,IND_ROC,period=14;
 BB,false,IND_BB,period=14;
 STDDEV,false,IND_STDDEV,period=14;
 Volume,false,IND_VOLUME,period=3;
-OBV,false,IND_OBV,period=14;
+OBV,true,IND_OBV,period=14;
 ROCV,false,IND_ROCV,period=14;
 VolumeOsci,true,IND_VOLUMEOSC,fast=12;slow=26;
 CombinedOI,false,IND_COMBOI,period=0;

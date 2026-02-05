@@ -1,6 +1,6 @@
 Type,Variable,Value
 Info,name,MACDLong
-Info,selected,false
+Info,selected,true
 Indicator,sma10,sma.10
 Indicator,sma20,sma.20
 Indicator,macd,macd.12.26.9
